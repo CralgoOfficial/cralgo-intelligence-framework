@@ -8,3 +8,9 @@ Version: 1.0
 Published: July 2026
 
 © Cralgo Innovations (OPC) Pvt. Ltd.
+
+## License
+
+This repository is made publicly available for reference and research purposes under the **Cralgo Proprietary License**.
+
+Please see the `LICENSE` file for permitted uses and restrictions.
