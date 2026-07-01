@@ -1,1 +1,29 @@
+cff-version: 1.2.0
+title: "Cralgo Intelligence Framework"
+message: "If you use this framework, please cite it using the metadata below."
+type: software
 
+authors:
+  - family-names: "Kabir Kumar"
+    given-names: "Anil"
+
+version: "1.0.1"
+date-released: "2026-07-01"
+
+doi: 10.5281/zenodo.21108916
+
+repository-code: "https://github.com/CralgoOfficial/cralgo-intelligence-framework"
+url: "https://cralgo.com/framework"
+
+license: Apache-2.0
+
+keywords:
+  - execution intelligence
+  - intelligence capital
+  - decision intelligence
+  - organizational intelligence
+  - business outcomes
+  - governance
+  - knowledge systems
+
+abstract: "The Cralgo Intelligence Framework is an open framework for structuring intelligence, execution alignment, governance, reflection loops and outcome-oriented decision systems across organizations."
